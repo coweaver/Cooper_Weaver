@@ -1,2 +1,47 @@
-Cooper_Weaver
-=============
+#Cooper_Weaver
+=====
+#Fall Semester
+=====
+<p>Period 6</p>
+
+##Main Projects
+=====
+
+###Search Engine
+
+Team members: Cooper Weaver, Aaron Mortenson, Eric Chen, Brian Sapozhnikov
+
+<p>Capable of answering a simple question using google and beautiful soup.</p>
+
+Describe your project here
+
+put the https clone link here
+
+###MiniBlog
+
+Team Members: Cooper Weaver, Genji Noguchi, Benedict Bolton, Sadman Fahmid
+
+<p> A blog where you can post and comment and see the top trending posts</p>
+
+####HTTPS clone link: https://github.com/sadmanf/miniblog.git
+
+
+###API: Fantasy Football Top Players
+Team Members: Cooper Weaver, Eric Morgenstern
+<p> A program that gives the tip five fantasy performers of the requested team
+####HTTPS clone link: https://github.com/coweaver/Cooper_Eric.git
+
+====
+Mini Projects
+
+* login
+  * Cooper, Andreas
+  * 6/login/Cooper_Andreas
+
+* regexp
+  * Cooper, Andrew
+  * 6/regexp/andrew-cooper
+
+* intro-proj 1
+  * Cooper, Rebecca
+  * 6/intro-proj1/Weaver_Yuste
