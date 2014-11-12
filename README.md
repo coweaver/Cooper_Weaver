@@ -13,9 +13,7 @@ Team members: Cooper Weaver, Aaron Mortenson, Eric Chen, Brian Sapozhnikov
 
 <p>Capable of answering a simple question using google and beautiful soup.</p>
 
-Describe your project here
-
-put the https clone link here
+####HTTPS clone link: https://github.com/coweaver/laughing-octo-ironman.git
 
 ###MiniBlog
 
