@@ -43,3 +43,7 @@ Mini Projects
 * intro-proj 1
   * Cooper, Rebecca
   * 6/intro-proj1/Weaver_Yuste
+
+* ToDo
+  * Mark Norwich, Cooper Weaver
+  * 6/todo/Mark_Cooper
