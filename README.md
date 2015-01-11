@@ -5,7 +5,7 @@
 <p>Period 6</p>
 
 ##Final Project
-Name: Qamba
+<p>Name: Qamba</p>
 Team members: Cooper Weaver, Mark Norwich, Andreas Wang, Eric Morgenstern
 <p> A music app that promotes new artists and provides an area for artists to be discovered and to distribute their music in addition to all other music available on spotify.</p>
 
